@@ -35,7 +35,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 </h3>
 <div style="display: flex;">
     <p dir="auto">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=barmansanjay722&show_icons=true&locale=en" alt="barmansanjay722" /></p>
-    <<p dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barmansanjay722&show_icons=true&locale=en&layout=compact" alt="barmansanjay722" /></p>
+    <p style="max-width: 100%;margin-top: -50px;" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barmansanjay722&show_icons=true&locale=en&layout=compact"  alt="barmansanjay722" /></p>
 </div>
 
 <!-- <div>
