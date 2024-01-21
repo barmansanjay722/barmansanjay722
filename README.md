@@ -3,9 +3,9 @@
 First of all, thanks for visiting my profile. Here, what you should know about me:
 <h4> About Me</h4>
 
--  I am a self driven passionate coder who loves to solve problems and write efficient codes.
-- 🎭 I love speaking at events and connecting with people.
-- 📫 How to reach me: Check social links below.
+- I am a self driven passionate coder who loves to solve problems and write efficient codes.
+- I love speaking at events and connecting with people.
+- How to reach me: Check social links below.
 - My primary coding language: Python.
 - I am happy to discuss about: Data Structures and Algorithms, Programming in Python/Java, Computer concepts(Operating Systems,Computer Networking,Databases), Cloud(AWS/GCP) and Linux.
 - I am looking forward to collaborate on Open-Source Projects.
